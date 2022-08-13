@@ -82,3 +82,12 @@ h3,
   font-family: 'Roboto Serif', serif;
   text-transform: uppercase;
 }
+
+.price {
+  margin-top: 50px;
+}
+
+img {
+  width: 50%;
+  border-radius: 5px;
+}
